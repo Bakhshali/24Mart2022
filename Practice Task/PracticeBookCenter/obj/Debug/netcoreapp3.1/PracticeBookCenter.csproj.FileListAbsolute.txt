@@ -1,0 +1,14 @@
+C:\Users\Ali\source\repos\PracticeBookCenter\PracticeBookCenter\bin\Debug\netcoreapp3.1\PracticeBookCenter.exe
+C:\Users\Ali\source\repos\PracticeBookCenter\PracticeBookCenter\bin\Debug\netcoreapp3.1\PracticeBookCenter.deps.json
+C:\Users\Ali\source\repos\PracticeBookCenter\PracticeBookCenter\bin\Debug\netcoreapp3.1\PracticeBookCenter.runtimeconfig.json
+C:\Users\Ali\source\repos\PracticeBookCenter\PracticeBookCenter\bin\Debug\netcoreapp3.1\PracticeBookCenter.runtimeconfig.dev.json
+C:\Users\Ali\source\repos\PracticeBookCenter\PracticeBookCenter\bin\Debug\netcoreapp3.1\PracticeBookCenter.dll
+C:\Users\Ali\source\repos\PracticeBookCenter\PracticeBookCenter\bin\Debug\netcoreapp3.1\PracticeBookCenter.pdb
+C:\Users\Ali\source\repos\PracticeBookCenter\PracticeBookCenter\obj\Debug\netcoreapp3.1\PracticeBookCenter.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\PracticeBookCenter\PracticeBookCenter\obj\Debug\netcoreapp3.1\PracticeBookCenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\PracticeBookCenter\PracticeBookCenter\obj\Debug\netcoreapp3.1\PracticeBookCenter.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\PracticeBookCenter\PracticeBookCenter\obj\Debug\netcoreapp3.1\PracticeBookCenter.AssemblyInfo.cs
+C:\Users\Ali\source\repos\PracticeBookCenter\PracticeBookCenter\obj\Debug\netcoreapp3.1\PracticeBookCenter.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\PracticeBookCenter\PracticeBookCenter\obj\Debug\netcoreapp3.1\PracticeBookCenter.dll
+C:\Users\Ali\source\repos\PracticeBookCenter\PracticeBookCenter\obj\Debug\netcoreapp3.1\PracticeBookCenter.pdb
+C:\Users\Ali\source\repos\PracticeBookCenter\PracticeBookCenter\obj\Debug\netcoreapp3.1\PracticeBookCenter.genruntimeconfig.cache
